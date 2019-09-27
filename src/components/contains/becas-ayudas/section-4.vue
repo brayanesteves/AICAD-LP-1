@@ -2,7 +2,7 @@
     <section class="choose-campus">
 			<div class="wrapper">
 				<p class="c-title-black-uppercase">Estamos a tu disposición</p>
-				<p>En ESIC estamos siempre a tu disposición. Contamos con un equipo de profesionales dedicados a orientar tanto a padres como a sus hijos, en todo lo referente a estudios universitarios.</p>
+				<p>En AICAD estamos siempre a tu disposición. Contamos con un equipo de profesionales dedicados a orientar tanto a padres como a sus hijos, en todo lo referente a estudios universitarios.</p>
 				<div class="stage-note">
 					<div class="stage-note__item">
 						<img :src="llamada_imagen" :alt="llamada_alt">

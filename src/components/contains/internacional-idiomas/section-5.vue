@@ -39,7 +39,7 @@
       </ul>
     </div>
     <!-- <div class="wrapper info-center">
-				<a href="https://www.esic.edu/idiomas/" class="c-button-round-ghost-xl c-button-round-ghost-xl--orange visita-esic" onClick="ga('send', 'event', 'usabilidad', 'grado_idiomas', 'boton_visitar_esic_idiomas')">Visitar <span>ESIC Idiomas</span></a>
+				<a href="https://www.aicad.edu/idiomas/" class="c-button-round-ghost-xl c-button-round-ghost-xl--orange visita-aicad">Visitar <span>AICAD Idiomas</span></a>
     </div>-->
   </section>
 </template>

@@ -16,7 +16,7 @@
             >
               <img
                 src="imagenes/mobile/university/becas-ayudas/logo-esic-blanco-m.png"
-                alt="ESIC LOGO"
+                alt="AICAD LOGO"
                 class="margin-bottom-neg"
               />
               <p class="u-text-center u-text-initial u-font-md u-margin-bottom-null">Contacta con</p>
@@ -348,7 +348,7 @@
                 <small
                   id="paragraphMod"
                   class="mod-warning u-color-white u-padding-left-xs u-padding-top-xs u-block"
-                >Únicamente podrán realizar pruebas de admisión online aquellos estudiantes que se encuentren estudiando en una provincia diferente donde ESIC tenga un campus o estudiantes que se encuentren estudiando fuera de España.</small>
+                >Únicamente podrán realizar pruebas de admisión online aquellos estudiantes que se encuentren estudiando en una provincia diferente donde AICAD tenga un campus o estudiantes que se encuentren estudiando fuera de España.</small>
               </div>
 
               <div class="material-input" id="carrera">

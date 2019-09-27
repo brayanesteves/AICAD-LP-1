@@ -11,7 +11,7 @@
 export default {
   data() {
     return {
-      aicad_logo: "../imagenes/mobile/university/esic_idiomas_blanco.png"
+      aicad_logo: "../imagenes/mobile/university/aicad_idiomas_blanco.png"
     };
   }
 };

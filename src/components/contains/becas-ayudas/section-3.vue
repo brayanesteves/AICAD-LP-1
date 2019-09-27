@@ -7,7 +7,7 @@
 			</div>
 			<div class="questions-becas__item">
 				<p class="c-title-black-uppercase">Becas y ayudas</p>
-				<p>No queremos que las cuestiones económicas supongan un obstáculo para que alcances tus objetivos y te asegures una formación con futuro, por ello, te presentamos una amplia batería de posibilidades que te ayudarán en este sentido, tanto el <a href="pdf/becas-y-ayudas-grado.pdf"  target="_blank" class="u-color-grado u-bold">PLAN DE BECAS</a> que hemos elaborado desde ESIC, como aquellas que ponen a tu alcance diferentes organismos públicos o privados.</p>
+				<p>No queremos que las cuestiones económicas supongan un obstáculo para que alcances tus objetivos y te asegures una formación con futuro, por ello, te presentamos una amplia batería de posibilidades que te ayudarán en este sentido, tanto el <a href="pdf/becas-y-ayudas-grado.pdf"  target="_blank" class="u-color-grado u-bold">PLAN DE BECAS</a> que hemos elaborado desde AICAD, como aquellas que ponen a tu alcance diferentes organismos públicos o privados.</p>
 			</div>
 			<div class="questions-becas__img">
 				<div class="c-img-label">
@@ -29,8 +29,8 @@
 			</div>
 			<div class="questions-becas__item">
 				<p class="c-title-black-uppercase">FINANCIACIÓN BANCARIA</p>
-				<p> ESIC mantiene CONVENIOS DE FINANCIACIÓN con determinadas entidades bancarias en condiciones preferentes para los alumnos matriculados en cualquiera de los programas de la escuela. En la Secretaría del área se encuentran las normas y condiciones específicas de cada uno de estos convenios.
-                    <a href="#formUniversityGeneral" id="" class="u-color-grado ayuda-financiacion">ESIC te ayuda con la financiación de tu Carrera</a></p>
+				<p> AICAD mantiene CONVENIOS DE FINANCIACIÓN con determinadas entidades bancarias en condiciones preferentes para los alumnos matriculados en cualquiera de los programas de la escuela. En la Secretaría del área se encuentran las normas y condiciones específicas de cada uno de estos convenios.
+                    <a href="#formUniversityGeneral" id="" class="u-color-grado ayuda-financiacion">AICAD te ayuda con la financiación de tu Carrera</a></p>
 			</div>
 			<div class="c-img-label u-margin-left-auto u-margin-right-auto u-hidden">
 				<img :src="Imagen_1" alt="Imagen guia">
@@ -39,7 +39,7 @@
 				</span>
 			</div>
 			<div class="questions-becas__item">
-				<p class="c-title-black-uppercase">SI VIVES FUERA DE ALGUNA DE LAS CIUDADES DONDE ESIC TIENE CAMPUS, Y BUSCAS ALOJAMIENTO, TE RECOMENDAMOS UNA SERIE DE COMPAÑÍAS Y RESIDENCIAS DEDICADAS AL ALOJAMIENTO DE ESTUDIANTES. </p>
+				<p class="c-title-black-uppercase">SI VIVES FUERA DE ALGUNA DE LAS CIUDADES DONDE AICAD TIENE CAMPUS, Y BUSCAS ALOJAMIENTO, TE RECOMENDAMOS UNA SERIE DE COMPAÑÍAS Y RESIDENCIAS DEDICADAS AL ALOJAMIENTO DE ESTUDIANTES. </p>
 				<p>Busca la que mejor se adapte a tus necesidades.</p>
 			</div>
 			<div class="c-img-label u-margin-left-auto u-margin-right-auto">

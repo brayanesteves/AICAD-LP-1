@@ -8,7 +8,7 @@
         <strong>titulaciones en el extranjero</strong>.
       </p>
       <p>
-        Nuestro objetivo es que todos los alumnos que cursen los estudios universitarios en ESIC salgan al mercado con un nivel de idioma idóneo para
+        Nuestro objetivo es que todos los alumnos que cursen los estudios universitarios en AICAD salgan al mercado con un nivel de idioma idóneo para
         <strong>hacer frente a cualquier situación en cualquier parte del mundo</strong>.
       </p>
     </div>

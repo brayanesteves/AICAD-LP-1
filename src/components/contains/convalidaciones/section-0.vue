@@ -2,7 +2,7 @@
     <section class="c-content-convalidaciones intro">
 			<div class="wrapper">
 
-				<p class="subtitle"><strong>¿Estás pensando cursar una carrera universitaria tras terminar tu Ciclo Formativo de Grado Superior o simplemente quieres cambiarte de Centro Universitario?</strong> En ESIC tenemos un plan para ti. Te facilitamos un plan de convalidaciones basado en los estudios que hayas cursado y los que quieres estudiar.
+				<p class="subtitle"><strong>¿Estás pensando cursar una carrera universitaria tras terminar tu Ciclo Formativo de Grado Superior o simplemente quieres cambiarte de Centro Universitario?</strong> En AICAD tenemos un plan para ti. Te facilitamos un plan de convalidaciones basado en los estudios que hayas cursado y los que quieres estudiar.
 				</p>
 				<div class="icon-list-container">
 					<div v-for="infor in info" :key="infor" class="u-display-flex ">

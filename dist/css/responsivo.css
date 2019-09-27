@@ -384,34 +384,34 @@
 .background__desafio-junior .desafio_junior-hand{align-items:flex-start;font-size:4.375rem;margin-top:25px}
 }
 @media (min-width:60.625rem){
-.c-slider-hero__item.background__generacion-esic{background-image:url(../imagenes/mobile/marquesinas/university/cabecera-generacionesic.jpg)}
+.c-slider-hero__item.background__generacion-aicad{background-image:url(../imagenes/mobile/marquesinas/university/cabecera-generacionaicad.jpg)}
 }
 @media (max-width:64rem){
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes div .city{font-size:1.25rem}
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes div .date{font-size:.75rem}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes div .city{font-size:1.25rem}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes div .date{font-size:.75rem}
 }
 @media (max-width:56.25rem){
-.c-slider-hero__item.background__generacion-esic{min-height:380px}
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex img{width:340px}
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex .corondel{border-left:2px solid #fff;height:128px}
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex .texto{font-size:1.125rem;width:218px;margin:32px 0 0}
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes div{width:25%;text-align:center}
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes div .date{margin-bottom:8px}
+.c-slider-hero__item.background__generacion-aicad{min-height:380px}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex img{width:340px}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex .corondel{border-left:2px solid #fff;height:128px}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex .texto{font-size:1.125rem;width:218px;margin:32px 0 0}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes div{width:25%;text-align:center}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes div .date{margin-bottom:8px}
 }
 @media (max-width:37.5rem){
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex{flex-direction:column}
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex img{width:280px;margin:0 auto}
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex .corondel{display:none}
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex .texto{font-size:1rem;text-align:center;width:100%;text-shadow:1px 2px 2px #000;margin:6px 0}
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes{text-shadow:1px 2px 2px #000}
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes div .city{font-size:1rem}
-.c-slider-hero__item.background__generacion-esic a .wrapper .calltoaction{font-size:1rem;margin:6px auto 0}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex{flex-direction:column}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex img{width:280px;margin:0 auto}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex .corondel{display:none}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex .texto{font-size:1rem;text-align:center;width:100%;text-shadow:1px 2px 2px #000;margin:6px 0}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes{text-shadow:1px 2px 2px #000}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes div .city{font-size:1rem}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .calltoaction{font-size:1rem;margin:6px auto 0}
 }
 @media (max-width:26.5625rem){
-.c-slider-hero__item.background__generacion-esic a .wrapper{padding:.5rem 0 0}
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex .texto{font-size:.875rem}
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes div .city{font-size:.8125rem}
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes div .date{font-size:.6875rem}
+.c-slider-hero__item.background__generacion-aicad a .wrapper{padding:.5rem 0 0}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex .texto{font-size:.875rem}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes div .city{font-size:.8125rem}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes div .date{font-size:.6875rem}
 }
 @media (max-width:56.25rem){
 .c-slider-hero__item.background__digital-thinking{background-position-x:-400px}
@@ -1816,7 +1816,7 @@ body{overflow:auto}
 .c-content-idiomas__listado .c-content-idiomas__logos a:nth-child(4){width:50%}
 }
 @media screen and (min-width:767px){
-.c-content-idiomas .visita-esic{padding:15px 40px}
+.c-content-idiomas .visita-aicad{padding:15px 40px}
 }
 @media screen and (min-width:768px){
 .c-content-idiomas .deskopt-text-left{text-align:left!important}
@@ -2571,34 +2571,34 @@ body{overflow:auto}
 .background__desafio-junior .desafio_junior-hand{align-items:flex-start;font-size:4.375rem;margin-top:25px}
 }
 @media (min-width:60.625rem){
-.c-slider-hero__item.background__generacion-esic{background-image:url(../imagenes/mobile/marquesinas/university/cabecera-generacionesic.jpg)}
+.c-slider-hero__item.background__generacion-aicad{background-image:url(../imagenes/mobile/marquesinas/university/cabecera-generacionaicad.jpg)}
 }
 @media (max-width:64rem){
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes div .city{font-size:1.25rem}
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes div .date{font-size:.75rem}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes div .city{font-size:1.25rem}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes div .date{font-size:.75rem}
 }
 @media (max-width:56.25rem){
-.c-slider-hero__item.background__generacion-esic{min-height:380px}
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex img{width:340px}
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex .corondel{border-left:2px solid #fff;height:128px}
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex .texto{font-size:1.125rem;width:218px;margin:32px 0 0}
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes div{width:25%;text-align:center}
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes div .date{margin-bottom:8px}
+.c-slider-hero__item.background__generacion-aicad{min-height:380px}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex img{width:340px}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex .corondel{border-left:2px solid #fff;height:128px}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex .texto{font-size:1.125rem;width:218px;margin:32px 0 0}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes div{width:25%;text-align:center}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes div .date{margin-bottom:8px}
 }
 @media (max-width:37.5rem){
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex{flex-direction:column}
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex img{width:280px;margin:0 auto}
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex .corondel{display:none}
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex .texto{font-size:1rem;text-align:center;width:100%;text-shadow:1px 2px 2px #000;margin:6px 0}
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes{text-shadow:1px 2px 2px #000}
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes div .city{font-size:1rem}
-.c-slider-hero__item.background__generacion-esic a .wrapper .calltoaction{font-size:1rem;margin:6px auto 0}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex{flex-direction:column}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex img{width:280px;margin:0 auto}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex .corondel{display:none}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex .texto{font-size:1rem;text-align:center;width:100%;text-shadow:1px 2px 2px #000;margin:6px 0}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes{text-shadow:1px 2px 2px #000}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes div .city{font-size:1rem}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .calltoaction{font-size:1rem;margin:6px auto 0}
 }
 @media (max-width:26.5625rem){
-.c-slider-hero__item.background__generacion-esic a .wrapper{padding:.5rem 0 0}
-.c-slider-hero__item.background__generacion-esic a .wrapper .flex .texto{font-size:.875rem}
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes div .city{font-size:.8125rem}
-.c-slider-hero__item.background__generacion-esic a .wrapper .sedes div .date{font-size:.6875rem}
+.c-slider-hero__item.background__generacion-aicad a .wrapper{padding:.5rem 0 0}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .flex .texto{font-size:.875rem}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes div .city{font-size:.8125rem}
+.c-slider-hero__item.background__generacion-aicad a .wrapper .sedes div .date{font-size:.6875rem}
 }
 @media (max-width:56.25rem){
 .c-slider-hero__item.background__digital-thinking{background-position-x:-400px}
@@ -4001,7 +4001,7 @@ body{overflow:auto}
 .c-content-idiomas__listado .c-content-idiomas__logos a:nth-child(4){width:50%}
 }
 @media screen and (min-width:767px){
-.c-content-idiomas .visita-esic{padding:15px 40px}
+.c-content-idiomas .visita-aicad{padding:15px 40px}
 }
 @media screen and (min-width:768px){
 .c-content-idiomas .deskopt-text-left{text-align:left!important}
@@ -4458,11 +4458,11 @@ body{overflow:auto}
 @media screen and (-webkit-min-device-pixel-ratio:0){
 .programas h1{font-size:32px;font-weight:300}
 h1{font-weight:400}
-#menu li:hover .dropdown_esic{left:-20.3em}
+#menu li:hover .dropdown_aicad{left:-20.3em}
 #menu li:hover .dropdown_carreras{left:-29.6em}
 #menu li:hover .dropdown_masters{left:-42.4em}
 #menu li:hover .dropdown_executive{left:-54.55em}
-#menu.english li:hover .dropdown_esic{left:-17.7em}
+#menu.english li:hover .dropdown_aicad{left:-17.7em}
 #menu.english li:hover .dropdown_carreras{left:-27em}
 #menu.english li:hover .dropdown_masters{left:-37.6em}
 #menu.english li:hover .dropdown_executive{left:-56.6em}
@@ -4640,7 +4640,7 @@ img.banner_pub{margin:50px 0 0}
 .carreras-uni .btn-destacado,.executive_home .btn-destacado,.master-postgrado .btn-destacado{width:24%!important}
 .carreras-uni,.executive_home,.master-postgrado{width:23%!important}
 .clearBottom,.clearTop{border:none}
-#menu li:hover .dropdown_esic{left:-40.3em}
+#menu li:hover .dropdown_aicad{left:-40.3em}
 #menu li:hover .dropdown_carreras{left:-48em}
 #menu li:hover .dropdown_masters{left:-59em}
 #menu li:hover .dropdown_executive{left:-72em}
@@ -4753,7 +4753,7 @@ div.contacta_con_nosotros .contct{padding:18px 0}
 .columna_03{border-bottom:none}
 .trends{width:80%;height:auto;border-bottom:1px #b1a5a5 dashed}
 .fechas_destacadas{height:auto!important;border-bottom:none}
-.informate_acerca_de_esicinstitucion{margin-left:0;width:90%!important}
+.informate_acerca_de_aicadinstitucion{margin-left:0;width:90%!important}
 .contenedor_rankings{margin:10px 0;width:100%}
 #informate{margin:0 auto}
 .adcrispciones{width:45%}
@@ -4830,11 +4830,11 @@ body{font-size:15px!important}
 #menu li ul li a{color:#fff;text-align:left!important;padding-left:15px}
 #menu .prin a,#menu .prin a.contactar,#menu .prin a.contactar:hover{text-align:left!important;padding-left:15px}
 #menu .iconos,#menu div.iconos{display:none}
-#menu li ul,#menu li ul.carrerauniv,#menu li ul.conferencias,#menu li ul.conocesic,#menu li ul.dimension,#menu li ul.empresa,#menu li ul.empresa_carreras,#menu li ul.esicuniv,#menu li ul.experience,#menu li ul.faculty,#menu li ul.incompany,#menu li ul.nuetraescuela,#menu li ul.programas,#menu li ul.programasdireccion,#menu li ul.saladeprensa,#menu li ul.sociedad{margin:0;padding:0}
+#menu li ul,#menu li ul.carrerauniv,#menu li ul.conferencias,#menu li ul.conocaicad,#menu li ul.dimension,#menu li ul.empresa,#menu li ul.empresa_carreras,#menu li ul.aicaduniv,#menu li ul.experience,#menu li ul.faculty,#menu li ul.incompany,#menu li ul.nuetraescuela,#menu li ul.programas,#menu li ul.programasdireccion,#menu li ul.saladeprensa,#menu li ul.sociedad{margin:0;padding:0}
 #menu .col_1,#menu .col_2,#menu .col_3,#menu .col_4,#menu .col_5,#menu .col_6,#menu .col_7,#menu .col_8{width:100%;margin:0}
-.dropdown_carreras,.dropdown_esic,.dropdown_executive,.dropdown_experience,.dropdown_masters,.dropdown_sedes{position:relative;padding:10px 0;width:100%;left:0}
-#menu li:hover .dropdown_carreras,#menu li:hover .dropdown_esic,#menu li:hover .dropdown_executive,#menu li:hover .dropdown_experience,#menu li:hover .dropdown_masters,#menu li:hover .dropdown_sedes,.dropdown_carreras:hover,.dropdown_esic:hover,.dropdown_executive:hover,.dropdown_experience:hover,.dropdown_masters:hover,.dropdown_sedes:hover{left:0!important}
-.dropdown_carreras,.dropdown_esic,.dropdown_executive,.dropdown_experience,.dropdown_masters,.dropdown_sedes{display:none}
+.dropdown_carreras,.dropdown_aicad,.dropdown_executive,.dropdown_experience,.dropdown_masters,.dropdown_sedes{position:relative;padding:10px 0;width:100%;left:0}
+#menu li:hover .dropdown_carreras,#menu li:hover .dropdown_aicad,#menu li:hover .dropdown_executive,#menu li:hover .dropdown_experience,#menu li:hover .dropdown_masters,#menu li:hover .dropdown_sedes,.dropdown_carreras:hover,.dropdown_aicad:hover,.dropdown_executive:hover,.dropdown_experience:hover,.dropdown_masters:hover,.dropdown_sedes:hover{left:0!important}
+.dropdown_carreras,.dropdown_aicad,.dropdown_executive,.dropdown_experience,.dropdown_masters,.dropdown_sedes{display:none}
 .dropdown_sedes img{display:none}
 .social{position:relative;top:0;width:100%;left:0}
 .social .fondo{width:100%}
@@ -4969,7 +4969,7 @@ ul.lista_carreras li a{padding:15px 5px 14px 0!important}
 #share_ficha ul li.twitter{width:12%;float:left}
 #share_ficha ul li.linkedin{width:13%;float:left}
 #share_ficha ul li.googleplus{width:20%;float:left}
-.dropdown_carreras,.dropdown_executive,.dropdown_experience,.dropdown_masters,.dropdown_sedes,.nuevoMenu .dropdown_esic{position:relative;padding:10px 0;width:100%;left:0}
+.dropdown_carreras,.dropdown_executive,.dropdown_experience,.dropdown_masters,.dropdown_sedes,.nuevoMenu .dropdown_aicad{position:relative;padding:10px 0;width:100%;left:0}
 img.logo{margin-top:47px}
 #selectorIdioma{display:block!important;width:100%;margin-top:20px;margin-right:-16px;margin-bottom:20px}
 #share_ficha ul{width:100%}
@@ -5093,14 +5093,14 @@ table.formacion-emp.oculto.clientes td{width:189%!important}
 }
 @media (max-width:600px){
 .wrapper_columns_trends,.wrapper_columns_trends_nueva_home{width:100%;margin-bottom:20px;margin:0 auto!important}
-.informate_acerca_de_esicinstitucion{margin:20px 0}
+.informate_acerca_de_aicadinstitucion{margin:20px 0}
 .adcrispciones{width:90%;border:none}
 .adcrispciones p{height:auto}
 img.flechas_news,img.flechas_news_right{width:4%;margin:0}
 .actualidad,.actualidad.inferior{width:90%!important}
 #informate{width:89%!important}
 #informate.univ{width:88%!important}
-.informate_acerca_de_esicinstitucion{width:100%!important}
+.informate_acerca_de_aicadinstitucion{width:100%!important}
 ul.lista_carreras li.tit.menu{display:none}
 ul.lista_carreras li a span.clasificacion,ul.lista_carreras li a span.fecha,ul.lista_carreras li a span.publicacion,ul.lista_carreras li a span.tipo{width:100%;margin-bottom:10px}
 ul.lista_carreras li a img.publicacion{float:right}
@@ -5265,7 +5265,7 @@ a.ocult{display:none!important}
 .menu-masteres{padding:0 0 0 91px!important}
 .menu-executive a{padding:10px!important;width:100%!important}
 .menu-executive{padding:0 0 0 91px!important}
-.trends informate_acerca_de_esicinstitucion.carreras{padding:0!important}
+.trends informate_acerca_de_aicadinstitucion.carreras{padding:0!important}
 .menu-gesco{width:69%!important}
 .wrapper_columns_trends.gesco .column-right p{width:100%!important;text-align:center!important}
 .menu-gesco,.menu-gesco.centrado{padding-left:42px!important}
@@ -5283,7 +5283,7 @@ ul.campus-virtual li a{border:none!important}
 .act{width:44%!important}
 ul.opciones-calidad li{float:left!important;width:100%!important;padding:10px 0!important}
 ul.opciones-calidad{text-align:left!important}
-.contenido.esic-exp-grado{margin:389px auto 0!important}
+.contenido.aicad-exp-grado{margin:389px auto 0!important}
 .styleSelect{width:100.5%!important}
 .enviar-btn.postgrado,.obligatorios.postgrado{width:100%!important}
 .guias-academicas img{float:left;padding-bottom:8px}
@@ -5350,7 +5350,7 @@ input.buscar{width:50%}
 .trends_lit{margin-bottom:30px}
 img.trends_logo{float:none;margin:0}
 #informate{width:88%!important}
-.informate_acerca_de_esicinstitucion h2{margin:0 auto;width:90%;padding-top:30px}
+.informate_acerca_de_aicadinstitucion h2{margin:0 auto;width:90%;padding-top:30px}
 a.info_big.bigger{margin:10% 2%;width:80%}
 div.cuerpoCentralFicha ol,div.cuerpoCentralFicha ul{padding:5%}
 .footer ul{margin-bottom:10px}
@@ -5642,7 +5642,7 @@ ul.campus-virtual li{margin-left:39px!important}
 .sedeMapa .direccion{width:auto}
 .tematics .col-1{height:auto;width:97%}
 .col-3-tem{width:84%;float:left;padding:40px 15px 0}
-.dropdown_carreras,.dropdown_executive,.dropdown_experience,.dropdown_masters,.dropdown_sedes,.nuevoMenu .dropdown_esic{width:100%!important;left:0;padding:10px 0;position:relative}
+.dropdown_carreras,.dropdown_executive,.dropdown_experience,.dropdown_masters,.dropdown_sedes,.nuevoMenu .dropdown_aicad{width:100%!important;left:0;padding:10px 0;position:relative}
 .nuevoMenu li .drop{height:auto!important;padding:12px 0!important}
 .bloque-programas,.contenedor.sedes .bloque-programas{height:auto}
 .bloque-tematicasNuevo{width:100%}

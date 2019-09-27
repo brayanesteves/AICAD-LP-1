@@ -14,13 +14,13 @@
 
 								<section>
 									<p class="u-text-uppercase u-bold">¿EN QUÉ CONSISTEN LAS PRUEBAS DE ADMISIÓN?</p>
-									<p>La prueba de admisión de ESIC <span class="u-bold">puede realizarse tanto en español como en inglés</span>, siempre dependerá del <span class="u-bold">idioma en el que vayas a estudiar el grado universitario</span>. La duración es <span class="u-bold">aproximadamente de una hora y media y no necesitan de una preparación previa.</span></p>
+									<p>La prueba de admisión de AICAD <span class="u-bold">puede realizarse tanto en español como en inglés</span>, siempre dependerá del <span class="u-bold">idioma en el que vayas a estudiar el grado universitario</span>. La duración es <span class="u-bold">aproximadamente de una hora y media y no necesitan de una preparación previa.</span></p>
 
-									<p>En caso de <span class="u-bold">que seas un estudiante que vivas o residas fuera de la Provincia/Comunidad Autónoma donde ESIC tiene campus</span>, podrás realizar las pruebas de manera online.</p><p>La prueba de admisión se divide en <span class="u-bold">TRES FASES</span>:</p>
+									<p>En caso de <span class="u-bold">que seas un estudiante que vivas o residas fuera de la Provincia/Comunidad Autónoma donde AICAD tiene campus</span>, podrás realizar las pruebas de manera online.</p><p>La prueba de admisión se divide en <span class="u-bold">TRES FASES</span>:</p>
 									<div class="list-stage">
 										<div class="list-stage__item">
 											<span>01</span>
-											<p><span class="u-bold">Entrevista Personal;</span> tiene como finalidad conocer el perfil del candidato, su afinidad con la carrera elegida y su grado de motivación para estudiar en ESIC.</p>
+											<p><span class="u-bold">Entrevista Personal;</span> tiene como finalidad conocer el perfil del candidato, su afinidad con la carrera elegida y su grado de motivación para estudiar en AICAD.</p>
 										</div>
 										<div class="list-stage__item">
 											<span>02</span>
@@ -47,7 +47,7 @@
 											<img src="imagenes/mobile/university/becas-ayudas/icon-solicita-cita.png" alt="Icono solicitar cita">
 											<p><span>SOLICITA TU CITA</span> Necesitarás decirnos en qué día y hora te gustaría realizar las pruebas. Elige la modalidad que prefieras para realizar la prueba.</p>
 										</div>
-										<a href="https://www.esic.edu/grado/becas-ayudas/?p=1&IdA=xx#contacto" class="cita espanol">Solicitar cita aquí<img src="imagenes/mobile/university/becas-ayudas/arrow-right-white.png" alt="solicitar cita"></a>
+										<a href="" class="cita espanol">Solicitar cita aquí<img src="imagenes/mobile/university/becas-ayudas/arrow-right-white.png" alt="solicitar cita"></a>
 								</div>
 									<div class="list-stage-icon__item">
 										<img src="imagenes/mobile/university/becas-ayudas/icon-confirma-cita.png" alt="Icono confirmación cita">

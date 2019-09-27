@@ -4,7 +4,7 @@
 			<a href="./">
 				<picture>
 					<source media="(min-width: 768px)" :srcset="img_3">
-					<img :src="img_4" alt="ESIC Business & Marketing School">
+					<img :src="img_4" alt="AICAD Business & Marketing School">
 				</picture>
 			</a>
 		</div>
@@ -31,9 +31,9 @@ export default {
 			
 			img_1: '../imagenes/mobile/icon-phone-white.png',
 			img_2: '../imagenes/mobile/icon-whatsapp.png',
-			img_3: '../imagenes/mobile/logo-esic-big.png',
+			img_3: '../imagenes/mobile/logo-aicad-big.png',
 			img_3_0: '../imagenes/mobile/logo-esic.png',
-			img_4:'imagenes/mobile/icon-sobre-nav.png',
+			img_4:'../imagenes/mobile/icon-sobre-nav.png',
 			img_5:'../imagenes/mobile/icon-telephone.png',
 			img_6:'../imagenes/mobile/icon-lupa.png'
 		}

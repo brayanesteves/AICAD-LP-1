@@ -17,7 +17,7 @@
                 </div>
 				<div class="list-description__item">
 					<span class="number__description u-color-grado">03.</span>
-					<p>Tras los <strong>resultados</strong>, si lo deseas, puedes solicitar tu prueba de admisión<a href="https://www.esic.edu/grado/becas-ayudas/?p=1&IdA=xx#contacto" class="u-text-bold u-color-grado"> pinchando aquí.</a></p>
+					<p>Tras los <strong>resultados</strong>, si lo deseas, puedes solicitar tu prueba de admisión<a href="" class="u-text-bold u-color-grado"> pinchando aquí.</a></p>
 				</div>
 				<div class="button-final">
 					<a href="#" class="modal__btn" data-modal="#form-convalidation">COMIENZA TU SOLICITUD DE CONVALIDACIÓN </a>

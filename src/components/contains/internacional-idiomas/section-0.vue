@@ -40,7 +40,7 @@
           <span class="number__description u-color-grado">04.</span>
 
           <p>
-            <strong class="u-color-grado title">Munde ESIC</strong>
+            <strong class="u-color-grado title">Munde AICAD</strong>
             <br />Movilidades
             <strong>fuera del Espacio Educativo Europeo</strong>.
           </p>

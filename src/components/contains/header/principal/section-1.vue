@@ -6,6 +6,6 @@
 		<a href="informacion-de-interes-faculty-personal/">Faculty / personal</a>
 		<a href="centrosensenanza/">Centros de enseñanza</a>
 		<a href="informacion-de-interes-empresas/">Empresas</a>
-		<a href="https://campusvirtual.esic.edu/public/">Campus virtual</a>
+		<a href="https://campusvirtual.aicad.edu/public/">Campus virtual</a>
 	</section>
 </template>
